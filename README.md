@@ -1,0 +1,1 @@
+# solinda_Odoo3
